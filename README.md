@@ -4,14 +4,14 @@ Hi, I am Adnan Adib, a 17-year-old indie programmer from Dhaka, Bangladesh. My e
 
 I am a student at Adamjee Cantonment College. Feel free to explore my [HackerRank](https://www.hackerrank.com/profile/erroradib) profile to see more of my work.
 
--1 I ranked 46th in the preliminary selection of the [Bangladesh Olympiad of Informatics](https://olympiad.org.bd)
--2 38th in the preliminary selection of the [Bangladesh Artificial Intelligence Olympiad](https://toph.co/c/bd-artificial-intelligence-olympiad-preliminary/standings).
+- I ranked 46th in the preliminary selection of the [Bangladesh Olympiad of Informatics](https://olympiad.org.bd)
+- 38th in the preliminary selection of the [Bangladesh Artificial Intelligence Olympiad](https://toph.co/c/bd-artificial-intelligence-olympiad-preliminary/standings).
 
 **SOCIALS**
-[Website](https://erroradib.xyz/)
-[E-mail](mailto:adnanadib001@gmail.com)
-[Facebook](https://facebook.com/erroradib)
-[Instagram](https://facebook.com/error_adib)
-[Twitch](https://www.twitch.tv/errorsensei)
+- [Website](https://erroradib.xyz/)
+- [E-mail](mailto:adnanadib001@gmail.com)
+- [Facebook](https://facebook.com/erroradib)
+- [Instagram](https://facebook.com/error_adib)
+- [Twitch](https://www.twitch.tv/errorsensei)
 
 
