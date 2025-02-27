@@ -1,6 +1,6 @@
 ## Ahoy Matey 🗿
 
-Hi, I am Adnan Adib, a 17-year-old indie programmer from Dhaka, Bangladesh. My expertise lies in developing Discord bots, working with hash encryptions, and creating APIs. Currently, I am delving into Deep Learning, focusing on TensorFlow projects.
+Hi, I am Adnan Adib, a 19-year-old indie programmer from Dhaka, Bangladesh. My expertise lies in developing Discord bots, working with hash encryptions, and creating APIs. Currently, I am delving into Deep Learning, focusing on TensorFlow projects.
 
 I am a student at Adamjee Cantonment College. Feel free to explore my [HackerRank](https://www.hackerrank.com/profile/erroradib) profile to see more of my work.
 
